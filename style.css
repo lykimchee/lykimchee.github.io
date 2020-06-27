@@ -17,7 +17,7 @@ body {
 
 #character {
   position: absolute;
-  top: 15%;
+  top: 10%;
   left: 20%;
 }
 
@@ -30,7 +30,7 @@ body {
 }
 
 .fa-phone-square-alt {
-  color: black;
+  color: blue;
 }
 
 .fa-phone-square-alt: hover {
