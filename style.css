@@ -10,7 +10,7 @@ body {
   text-align: center;
   vertical-align: middle;
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 63%;
   transform: translate(-50%, -50%);
 }
@@ -30,10 +30,10 @@ body {
 }
 
 .fa-phone-square-alt {
-  color: blue;
+  color: black;
 }
 
-.fa-phone-square-alt: hover {
+.fa-phone-square-alt:hover {
   color: rgb(0,171,108) !important;
 }
 
