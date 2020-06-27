@@ -3,7 +3,7 @@ body {
 }
 
 #textStyle {
-  color: black;
+  color: gray;
   font-family: 'Peanuts';
   font-weight: normal;
   font-size: 50px;
@@ -17,7 +17,7 @@ body {
 
 #character {
   position: absolute;
-  top: 25%;
+  top: 15%;
   left: 20%;
 }
 
