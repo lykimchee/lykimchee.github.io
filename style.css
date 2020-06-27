@@ -10,14 +10,14 @@ body {
   text-align: center;
   vertical-align: middle;
   position: absolute;
-  top: 50%;
-  left: 63%;
+  top: 40%;
+  left: 60%;
   transform: translate(-50%, -50%);
 }
 
 #character {
   position: absolute;
-  top: 30%;
+  top: 20%;
   left: 20%;
 }
 
